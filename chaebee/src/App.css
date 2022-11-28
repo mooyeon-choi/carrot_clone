@@ -1,0 +1,18 @@
+.navbar {
+  padding: 1.2rem 1.6rem;
+  height: 3em;
+  box-sizing: border-box;
+  justify-content: space-between;
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+}
+
+@font-face {
+  font-family: "LINESeedKR-Rg";
+  src: url("./fonts/LINESeedKR-Rg.ttf");
+}
+
+.App {
+  font-family: "LINESeedKR-Rg";
+}
