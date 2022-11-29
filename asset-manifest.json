@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/carrot_clone/static/css/main.fcce6fb4.css",
-    "main.js": "/carrot_clone/static/js/main.34fc32a8.js",
-    "static/js/787.fc9490b4.chunk.js": "/carrot_clone/static/js/787.fc9490b4.chunk.js",
-    "static/media/LINESeedKR-Rg.ttf": "/carrot_clone/static/media/LINESeedKR-Rg.19963b721fb283e17554.ttf",
-    "static/media/logo.png": "/carrot_clone/static/media/logo.6bdf076c72693316bc94.png",
-    "index.html": "/carrot_clone/index.html",
-    "main.fcce6fb4.css.map": "/carrot_clone/static/css/main.fcce6fb4.css.map",
-    "main.34fc32a8.js.map": "/carrot_clone/static/js/main.34fc32a8.js.map",
-    "787.fc9490b4.chunk.js.map": "/carrot_clone/static/js/787.fc9490b4.chunk.js.map"
+    "main.css": "/chaebee_fe/static/css/main.30d451c0.css",
+    "main.js": "/chaebee_fe/static/js/main.f154269e.js",
+    "static/js/787.fc9490b4.chunk.js": "/chaebee_fe/static/js/787.fc9490b4.chunk.js",
+    "static/media/LINESeedKR-Rg.ttf": "/chaebee_fe/static/media/LINESeedKR-Rg.19963b721fb283e17554.ttf",
+    "static/media/logo.png": "/chaebee_fe/static/media/logo.6bdf076c72693316bc94.png",
+    "index.html": "/chaebee_fe/index.html",
+    "main.30d451c0.css.map": "/chaebee_fe/static/css/main.30d451c0.css.map",
+    "main.f154269e.js.map": "/chaebee_fe/static/js/main.f154269e.js.map",
+    "787.fc9490b4.chunk.js.map": "/chaebee_fe/static/js/787.fc9490b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fcce6fb4.css",
-    "static/js/main.34fc32a8.js"
+    "static/css/main.30d451c0.css",
+    "static/js/main.f154269e.js"
   ]
 }
