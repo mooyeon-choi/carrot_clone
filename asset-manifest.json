@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/carrot_clone/static/css/main.655863de.css",
-    "main.js": "/carrot_clone/static/js/main.064c69d1.js",
+    "main.css": "/carrot_clone/static/css/main.a7915e93.css",
+    "main.js": "/carrot_clone/static/js/main.1ccd6600.js",
     "static/js/787.fc9490b4.chunk.js": "/carrot_clone/static/js/787.fc9490b4.chunk.js",
     "static/media/LINESeedKR-Rg.ttf": "/carrot_clone/static/media/LINESeedKR-Rg.19963b721fb283e17554.ttf",
     "static/media/logo.png": "/carrot_clone/static/media/logo.6bdf076c72693316bc94.png",
     "index.html": "/carrot_clone/index.html",
-    "main.655863de.css.map": "/carrot_clone/static/css/main.655863de.css.map",
-    "main.064c69d1.js.map": "/carrot_clone/static/js/main.064c69d1.js.map",
+    "main.a7915e93.css.map": "/carrot_clone/static/css/main.a7915e93.css.map",
+    "main.1ccd6600.js.map": "/carrot_clone/static/js/main.1ccd6600.js.map",
     "787.fc9490b4.chunk.js.map": "/carrot_clone/static/js/787.fc9490b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.655863de.css",
-    "static/js/main.064c69d1.js"
+    "static/css/main.a7915e93.css",
+    "static/js/main.1ccd6600.js"
   ]
 }
