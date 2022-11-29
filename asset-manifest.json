@@ -11,7 +11,7 @@
     "787.fc9490b4.chunk.js.map": "/carrot_clone/static/js/787.fc9490b4.chunk.js.map"
   },
   "entrypoints": [
-    "/carrot_clone/static/css/main.ca5203e2.css",
-    "/carrot_clone/static/js/main.42bce706.js"
+    "static/css/main.ca5203e2.css",
+    "static/js/main.42bce706.js"
   ]
 }
